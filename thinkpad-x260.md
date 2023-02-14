@@ -88,11 +88,23 @@ In the following table there's a summary of part numbers, price and links to web
 |Keyboard (SPA) Liteon | 01AV550       |              |           |                 |
 |Keyboard (SPA) Chicony| 01AV510       | 28€/36,69€   | [AliExpress (DZ-World)](https://es.aliexpress.com/item/1005005005158303.html) [AliExpress KHY](https://es.aliexpress.com/item/32899790406.html)          |                 |       
 | RAM 16GB DDR4 2666 | 01AG825 / 01AG865 |              |           | Hynix             |
-| RAM 16GB DDR4 2666 | 01AG838         |              |           | Samsung           |
-| RAM 16GB DDR4 2666 | 01AG842         |              |           | Micron            |
-| RAM 16GB DDR4 2666 | 01AG844         |              |           | Ramaxel            |
-| RAM 16GB DDR4 2666 | 01AG813         |              |           | Micron            |
-| RAM 16GB DDR4 2666 |          |              |           | Hynix            |
-| RAM 16GB DDR4 2666 | 01AG856         |              |           | Samsung            |
+| RAM 16GB DDR4 2666 | 01AG838 / 01AG856 |              |           | Samsung           |
+| RAM 16GB DDR4 2666 | 01AG842 / 01AG813 | 47,18 €      | [Crucial](https://www.crucial.es/compatible-upgrade-for/lenovo/thinkpad-x260)          | Micron            |
+| RAM 16GB DDR4 2666 | 01AG844          |              |           | Ramaxel           |
+| Ext. battery 3 cell| 45N1127          |               |           |                   |
+| Ext. battery 3 cell| 45N1775          |               |           | Panasonic         |
+| Ext. battery 3 cell| 01AV460          |               |           |                   |
+| Ext. battery 3 cell| 45N1125          |               |           | Panasonic         |
+| Int. battery 3 cell| 45N1109          |               |           | Panasonic         |
+| Int. battery 3 cell| 45N1111          |               |           | Sony         |
+| Int. battery 3 cell| 45N1773          |               |           | Panasonic         |
+| Int. battery 3 cell| 45N1113          |               |           |          |
+| Int. battery 3 cell| 01AV459          |               |           |          |
+
+
+
+
+
+
 
 
