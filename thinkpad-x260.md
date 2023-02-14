@@ -82,3 +82,17 @@ Here you have the link with original parts numbers from Lenovo:
 [X260 Laptop (ThinkPad) - Type 20F5 (Parts)](https://pcsupport.lenovo.com/es/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x260/20f5/parts/display/compatible)
 
 In the following table there's a summary of part numbers, price and links to websites to buy that parts:
+
+|Part                  |Part No        | Price (2023) | links     |comments         |
+|----------------------|---------------|--------------|-----------|-----------------|
+|Keyboard (SPA) Liteon | 01AV550       |              |           |                 |
+|Keyboard (SPA) Chicony| 01AV510       | 28€/36,69€   | [AliExpress (DZ-World)](https://es.aliexpress.com/item/1005005005158303.html) [AliExpress KHY](https://es.aliexpress.com/item/32899790406.html)          |                 |       
+| RAM 16GB DDR4 2666 | 01AG825 / 01AG865 |              |           | Hynix             |
+| RAM 16GB DDR4 2666 | 01AG838         |              |           | Samsung           |
+| RAM 16GB DDR4 2666 | 01AG842         |              |           | Micron            |
+| RAM 16GB DDR4 2666 | 01AG844         |              |           | Ramaxel            |
+| RAM 16GB DDR4 2666 | 01AG813         |              |           | Micron            |
+| RAM 16GB DDR4 2666 |          |              |           | Hynix            |
+| RAM 16GB DDR4 2666 | 01AG856         |              |           | Samsung            |
+
+
