@@ -69,39 +69,65 @@ The basic parts you will probably have to upgrade or change when you receive the
 
 * **Keyboard**. Usually you will get a foreigner keyboard with strange letters. Despite it seems a detail, you get easily fed up of guessing keys correspond to which symbol on a foreigner keyboard. You have two options: buy local keyboard or buy stickers with key letters.
 
-* **RAM**. Buy a laptop with 8Gb of RAM and upgrade it to 16Gb.
-
-* **Hard disk**. Laptop usually comes with an SSD disk, but buying a new one instead of refurbished one makes the difference.
-
-* **Battery**. X260, as other X series laptops, has 2 batteries. Internal or external batteries should be worn. Consider replacing any of them, but first we will check the number of cicles and battery percentage before replacing them.
-
-* **LCD screen**. Consider replacing if screen is HD resolution.
-
-Here you have the link with original parts numbers from Lenovo:
-
-[X260 Laptop (ThinkPad) - Type 20F5 (Parts)](https://pcsupport.lenovo.com/es/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x260/20f5/parts/display/compatible)
-
-In the following table there's a summary of part numbers, price and links to websites to buy that parts:
-
 |Part                  |Part No        | Price (2023) | links     |comments         |
 |----------------------|---------------|--------------|-----------|-----------------|
 |Keyboard (SPA) Liteon | 01AV550       |              |           |                 |
 |Keyboard (SPA) Chicony| 01AV510       | 28€/36,69€   | [AliExpress (DZ-World)](https://es.aliexpress.com/item/1005005005158303.html) [AliExpress KHY](https://es.aliexpress.com/item/32899790406.html)          |                 |       
+
+* **RAM**. Buy a laptop with 8Gb of RAM and upgrade it to 16Gb.
+
+|Part                  |Part No        | Price (2023) | links     |comments         |
+|----------------------|---------------|--------------|-----------|-----------------|
 | RAM 16GB DDR4 2666 | 01AG825 / 01AG865 |              |           | Hynix             |
 | RAM 16GB DDR4 2666 | 01AG838 / 01AG856 |              |           | Samsung           |
 | RAM 16GB DDR4 2666 | 01AG842 / 01AG813 | 47,18 €      | [Crucial](https://www.crucial.es/compatible-upgrade-for/lenovo/thinkpad-x260)          | Micron            |
 | RAM 16GB DDR4 2666 | 01AG844          |              |           | Ramaxel           |
+
+* **Battery**. X260, as other X series laptops, has 2 batteries. Internal or external batteries should be worn. Consider replacing any of them, but first we will check the number of cicles and battery percentage before replacing them.
+
+|Part                  |Part No        | Price (2023) | links     |comments         |
+|----------------------|---------------|--------------|-----------|-----------------|
 | Ext. battery 3 cell| 45N1127          |               |           |                   |
-| Ext. battery 3 cell| 45N1775          |               |           | Panasonic         |
+| Ext. battery 3 cell| 45N1775          | 40€           | [Aliexpress](https://es.aliexpress.com/item/4000144117053.html)          | Panasonic         |
 | Ext. battery 3 cell| 01AV460          |               |           |                   |
 | Ext. battery 3 cell| 45N1125          |               |           | Panasonic         |
 | Int. battery 3 cell| 45N1109          |               |           | Panasonic         |
 | Int. battery 3 cell| 45N1111          |               |           | Sony         |
 | Int. battery 3 cell| 45N1773          |               |           | Panasonic         |
-| Int. battery 3 cell| 45N1113          |               |           |          |
-| Int. battery 3 cell| 01AV459          |               |           |          |
+| Int. battery 3 cell| 45N1113          |               | [Aliexpress](https://es.aliexpress.com/item/4000494191425.html)          |          |
+| Int. battery 3 cell| 01AV459          |               |           |          | 
+| Ext. battery 6 cell| 45N1767          |               |           |           | 
+| Ext. battery 6 cell| 45N1734          |               |           |           | Panasonic
+| Ext. battery 6 cell| 45N1735          |               |           |           | LG
+| Ext. battery 6 cell| 45N1736          |               |           |           | SIM
+| Ext. battery 6 cell| 45N1129          |               |           |           | SANYO
+| Ext. battery 6 cell| 45N1131          |               |           |           | LG
+| Ext. battery 6 cell| 45N1133          |               |           |           |
 
+* **Hard disk**. Laptop usually comes with an SSD disk, but buying a new one instead of refurbished one makes the difference. Buy any top brand SSD with MLC or TLC. Avoid if possible QLC technology.
 
+[Difference between SLC, MLC, TLC and 3D NAND in USB flash drives, SSDs and Memory cards](https://www.kingston.com/en/blog/pc-performance/difference-between-slc-mlc-tlc-3d-nand)
+
+* **LCD screen**. Consider replacing if screen is HD resolution.
+
+In the following table there's a summary of part numbers, price and links to websites to buy that parts:
+
+|Part                  |Part No        | Price (2023) | links     |comments         |
+|----------------------|---------------|--------------|-----------|-----------------|
+| Display FHD (LG)     | 00HN899        |               |           |IPS Brightness 400 nits |
+| Display FHD (Innolux)| 00NY418        |               |           |IPS Brightness 300 nits |
+| Display FHD (AUO)    | 00HN883        |               |           |IPS Brightness 300 nits |
+| Display FHD (Innolux)| 01EN374        |               |           |IPS Brightness 300 nits |
+| Display HD (IVO)     | 00HN856        |               |           |IPS Brightness 300 nits |
+| Display HD (LG)      | 00NY414        |               |           |IPS Brightness 300 nits |
+| Display HD (BOE)     | 01HY675        |               |           |TN Brightness 200 nits |
+| Display HD (LG)      | 04X0325        |               |           |TN Brightness 200 nits |
+| Display HD (IVO)     | 04X0433        |               |           |TN Brightness 200 nits |
+| Display HD (AUO)     | 04X0324        |               |           |TN Brightness 200 nits |
+
+Here you have the link with original parts numbers from Lenovo:
+
+[X260 Laptop (ThinkPad) - Type 20F5 (Parts)](https://pcsupport.lenovo.com/es/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x260/20f5/parts/display/compatible)
 
 
 
