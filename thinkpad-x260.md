@@ -4,7 +4,7 @@
 
 As you may know Thinkpad laptops are recognised for its durability and military grade specs (i.e. MIL-STD-810G).
 
-Among all Thinkpad series, the T series and X series are the most renowned [Wikipedia Thinkpad](https://en.wikipedia.org/wiki/ThinkPad). I have owned another models which are iconic like Thinkpad T420 and Thinkpad T440p, the latest being recognised as one of the most upgradeable laptops ever (at least for Lenovo brand).
+Among all Thinkpad series, the T series and X series are the most renowned [Thinkpads](https://en.wikipedia.org/wiki/ThinkPad). I have owned another models which are iconic like Thinkpad T420 and Thinkpad T440p, the latest being recognised as one of the most upgradeable laptops ever (at least for Lenovo brand).
 
 However T series is focused for performance laptops with considerable weight: 
 current T490 weights 1,55 Kgs, while T440p weights 2,1 Kgs. While this shouldn't be an issue for someone who needs a performance laptop, it is too bulky and heavy for daily use.
@@ -46,13 +46,34 @@ Despite you can buy refurbished laptops like Thinpad on Amazon, I recommend gett
 
 Display types can make a difference in price:
 
-|Size (in)|resolution|Technology|Brightness |
-|---------|----------|----------|-----------|
-|12.5"    |1366x768  |TN        |200 nits   |
-|12.5"    |1366x768  |IPS       |300 nits   |
-|12.5"    |1920x1080 |IPS       |300 nits   |
+|Size (in)|Resolution     |Technology|Brightness |
+|---------|---------------|----------|-----------|
+|12.5"    |1366x768 (HD)  |TN        |200 nits   |
+|12.5"    |1366x768 (HD)  |IPS       |300 nits   |
+|12.5"    |1920x1080 (FHD)|IPS       |300 nits   |
 
-I recommend you get an i5 or i7 CPU since CPU is soldered and cannot be upgraded later. LCD panels are very bad in these laptops in general. Get an IPS panel instead
+Another components that may increase price on eBay are RAM (8Gb or 16Gb), hard disk size, backlit keyboard and general condition: broken LCD screen, external battery and charger included, and so on. Choose lower specs first if you have the option.
+
+I recommend you get an i5 or i7 CPU since CPU is soldered and cannot be upgraded later. LCD panels are very bad in these laptops in general. Get an IPS panel instead of TN technology. You can buy an item with bad screen and replace it later. 
+
+Regarding the purchase on ebay. Some considerations:
+
+* Choose professional seller first. This way you make sure item is in good condition: it powers on, is reliable, etc. Choose items on auction first and later check items with fixed price. You will find mostly i5 processors, but you can specifically search for i7, FHD screen or some specification.
+
+* If you live in European Union, avoid UK sellers you may have to pay a lot of taxes which will ruin your bargain. Also avoid USA sellers (notice that shipping cost may exceed product cost). Germany and Italy professional sellers are usually fine. 
+
 
 ## 3. Upgrading the basics
+
+The basic parts you will probably have to upgrade or change when you receive the laptop are:
+
+* **Keyboard**. Usually you will get a foreigner keyboard with strange letters. Despite it seems a detail, you get easily fed up of guessing keys correspond to which symbol on a foreigner keyboard. You have two options: buy local keyboard or buy stickers with key letters.
+
+* **RAM**. Buy a laptop with 8Gb of RAM and upgrade it to 16Gb.
+
+* **Hard disk**. Laptop usually comes with an SSD disk, but buying a new one instead of refurbished one makes the difference.
+
+* **Battery**. X260, as other X series laptops, has 2 batteries. Internal or external batteries should be worn. Consider replacing any of them, but first we will check the number of cicles and battery percentage before replacing them.
+
+* **LCD screen**. Consider replacing if screen is HD resolution.
 
