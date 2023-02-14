@@ -77,3 +77,8 @@ The basic parts you will probably have to upgrade or change when you receive the
 
 * **LCD screen**. Consider replacing if screen is HD resolution.
 
+Here you have the link with original parts numbers from Lenovo:
+
+[X260 Laptop (ThinkPad) - Type 20F5 (Parts)](https://pcsupport.lenovo.com/es/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x260/20f5/parts/display/compatible)
+
+In the following table there's a summary of part numbers, price and links to websites to buy that parts:
