@@ -12,12 +12,13 @@ current T490 model weights 1.55 Kgs, while T440p weights 2.1 Kgs. While this sho
 I wanted a "modern" laptop (at least with a USB3.0 port) and X260 is the best choice in the X series which is lighter. Here there's a comparison of several famous X series laptops regarding aspects I am interested.
 
 
+
 |Model | Rel. year |Max RAM |RAM Tp.|RAM slots|USB |Charge connector| Comments
 |------|-----------|--------|-------|---------|----|----------------|-------
-|X220  | 2011 (Apr)| 8GB    | DDR3  | 2       |2.0 |                | Iconic model
-|X230  | 2012 (May)| 8GB    | DDR3  | 2       |3.0 |                |  
+|X220  | 2011 (Apr)| 8GB    | DDR3  | 2       |2.0 |Yellow USB sq.  | Classic model. i7 board comes with USB 3.0. Unofficial Max RAM 16Gb
+|X230  | 2012 (May)| 8GB    | DDR3  | 2       |3.0 |Yellow USB sq.  | Unofficial max. RAM 16Gb 
 |X240  | 2013      | 8GB    | DDR3  | 1       |3.0 |Yellow USB sq.  |
-|X250  | 2015      | 16GB   | DDR3  | 1       |3.0 |Yellow USB sq.  | RAM 16GB expens.
+|X250  | 2015      | 16GB   | DDR3  | 1       |3.0 |Yellow USB sq.  | 1x16GB DDR3-RAM expensive
 |X260  | 2016      | 32GB   | DDR4  | 1       |3.0 |Yellow USB sq.  |
 |X270  | 2017      | 32GB   | DDR4  | 1       |3.0 |Yellow USB sq.  | USB-C connector
 |X280  | 2018      | 16GB   | DDR4  | 1       |3.0 |USB-C           |
