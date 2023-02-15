@@ -2,14 +2,14 @@
 
 ## 1. Why Lenovo X260?
 
-As you may know Thinkpad laptops are recognised for its durability and military grade specs (i.e. MIL-STD-810G).
+As you may know Thinkpad laptops are recognised for its durability, sturdyness and military grade specs (i.e. MIL-STD-810G).
 
-Among all Thinkpad series, the T series and X series are the most renowned [Thinkpads](https://en.wikipedia.org/wiki/ThinkPad). I have owned another models which are iconic like Thinkpad T420 and Thinkpad T440p, the latest being recognised as one of the most upgradeable laptops ever (at least for Lenovo brand).
+Among all Thinkpad series, T and X series are the most renowned [Thinkpads](https://en.wikipedia.org/wiki/ThinkPad). I have owned some classic models T420 and T440p, the latest being recognised as one of the most upgradeable laptops ever (at least for Lenovo brand).
 
-However T series is focused for performance laptops with considerable weight: 
-current T490 weights 1,55 Kgs, while T440p weights 2,1 Kgs. While this shouldn't be an issue for someone who needs a performance laptop, it is too bulky and heavy for daily use.
+However T series is focused on performance laptops with considerable weight: 
+current T490 model weights 1.55 Kgs, while T440p weights 2.1 Kgs. While this shouldn't be an issue for someone who needs a performance laptop, it is too bulky and heavy for daily use.
 
-I wanted a "modern" laptop (at least with a USB3.0 port) and X260 is the best choice in the lighter X series laptops. Here there's a comparison of several famous X series laptops regarding aspects I am interested.
+I wanted a "modern" laptop (at least with a USB3.0 port) and X260 is the best choice in the X series which is lighter. Here there's a comparison of several famous X series laptops regarding aspects I am interested.
 
 
 |Model | Rel. year |Max RAM |RAM Tp.|RAM slots|USB |Charge connector| Comments
@@ -54,7 +54,7 @@ Display types can make a difference in price:
 
 Another components that may increase price on eBay are RAM (8Gb or 16Gb), hard disk size, backlit keyboard and general condition: broken LCD screen, external battery and charger included, and so on. Choose lower specs first if you have the option.
 
-I recommend you get an i5 or i7 CPU since CPU is soldered and cannot be upgraded later. LCD panels are very bad in these laptops in general. Get an IPS panel instead of TN technology. You can buy an item with bad screen and replace it later. 
+I recommend you get an i5 or i7 CPU since CPU is soldered and cannot be upgraded later. LCD panels are very bad in these laptops in general. Get an IPS panel instead of TN technology (see comparison [here](https://history-computer.com/tn-vs-ips/)). You can buy an item with bad screen and replace it later. 
 
 Regarding the purchase on ebay. Some considerations:
 
@@ -85,39 +85,49 @@ The basic parts you will probably have to upgrade or change when you receive the
 
 * **Battery**. X260, as other X series laptops, has 2 batteries. Internal or external batteries should be worn. Consider replacing any of them, but first we will check the number of cicles and battery percentage before replacing them.
 
+**External**
+
 |Part                  |Part No        | Price (2023) | links     |comments         |
 |----------------------|---------------|--------------|-----------|-----------------|
 | Ext. battery 3 cell| 45N1127          |               |           |                   |
 | Ext. battery 3 cell| 45N1775          | 40€           | [Aliexpress](https://es.aliexpress.com/item/4000144117053.html)          | Panasonic         |
 | Ext. battery 3 cell| 01AV460          |               |           |                   |
 | Ext. battery 3 cell| 45N1125          |               |           | Panasonic         |
+| Ext. battery 6 cell| 45N1767          |               |           |                   | 
+| Ext. battery 6 cell| 45N1734          |               |           | Panasonic         | 
+| Ext. battery 6 cell| 45N1735          |               |           | LG                | 
+| Ext. battery 6 cell| 45N1736          |               |           | SIM               | 
+| Ext. battery 6 cell| 45N1129          |               |           | SANYO             | 
+| Ext. battery 6 cell| 45N1131          |               |           | LG                | 
+| Ext. battery 6 cell| 45N1133          |               |           |                   |
+
+**Internal**
+
+|Part                  |Part No        | Price (2023) | links     |comments         |
+|----------------------|---------------|--------------|-----------|-----------------|
 | Int. battery 3 cell| 45N1109          |               |           | Panasonic         |
 | Int. battery 3 cell| 45N1111          |               |           | Sony         |
 | Int. battery 3 cell| 45N1773          |               |           | Panasonic         |
 | Int. battery 3 cell| 45N1113          |               | [Aliexpress](https://es.aliexpress.com/item/4000494191425.html)          |          |
 | Int. battery 3 cell| 01AV459          |               |           |          | 
-| Ext. battery 6 cell| 45N1767          |               |           |           | 
-| Ext. battery 6 cell| 45N1734          |               |           |           | Panasonic
-| Ext. battery 6 cell| 45N1735          |               |           |           | LG
-| Ext. battery 6 cell| 45N1736          |               |           |           | SIM
-| Ext. battery 6 cell| 45N1129          |               |           |           | SANYO
-| Ext. battery 6 cell| 45N1131          |               |           |           | LG
-| Ext. battery 6 cell| 45N1133          |               |           |           |
 
 * **Hard disk**. Laptop usually comes with an SSD disk, but buying a new one instead of refurbished one makes the difference. Buy any top brand SSD with MLC or TLC. Avoid if possible QLC technology.
 
 [Difference between SLC, MLC, TLC and 3D NAND in USB flash drives, SSDs and Memory cards](https://www.kingston.com/en/blog/pc-performance/difference-between-slc-mlc-tlc-3d-nand)
 
-* **LCD screen**. Consider replacing if screen is HD resolution.
+* **LCD screen**. Consider replacing it if screen has HD resolution or panel is TN type.
 
 In the following table there's a summary of part numbers, price and links to websites to buy that parts:
 
-|Part                  |Part No        | Price (2023) | links     |comments         |
-|----------------------|---------------|--------------|-----------|-----------------|
-| Display FHD (LG)     | 00HN899        |               |           |IPS Brightness 400 nits |
+|Part                  |Part No        | Price (2023)   | links     |comments         |
+|----------------------|---------------|----------------|-----------|-----------------|
+| Display FHD (LG)     | 00HN899        |   118 €       | [eBay](https://www.ebay.es/itm/254714868572)  |IPS Brightness 400 nits |
 | Display FHD (Innolux)| 00NY418        |               |           |IPS Brightness 300 nits |
-| Display FHD (AUO)    | 00HN883        |               |           |IPS Brightness 300 nits |
+| Display FHD (AUO)    | 00HN883        |   65 €        | [eBay](https://www.ebay.es/itm/264803189901) |IPS Brightness 300 nits |
 | Display FHD (Innolux)| 01EN374        |               |           |IPS Brightness 300 nits |
+
+|Part                  |Part No        | Price (2023)   | links     |comments         |
+|----------------------|---------------|----------------|-----------|-----------------|
 | Display HD (IVO)     | 00HN856        |               |           |IPS Brightness 300 nits |
 | Display HD (LG)      | 00NY414        |               |           |IPS Brightness 300 nits |
 | Display HD (BOE)     | 01HY675        |               |           |TN Brightness 200 nits |
