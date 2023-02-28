@@ -101,8 +101,7 @@ In the following table there's a summary of part numbers, price and links to web
 | Int. battery 3 cell| 45N1113          |               |           |          |
 | Int. battery 3 cell| 01AV459          |               |           |          |
 
-
-
+test
 
 
 
